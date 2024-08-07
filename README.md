@@ -1,2 +1,2 @@
-# quantfin
+# Quantfin
 Research documents.
