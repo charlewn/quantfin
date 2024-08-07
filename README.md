@@ -1,2 +1,2 @@
 # quantfin
-Research documents for references.
+Research documents.
